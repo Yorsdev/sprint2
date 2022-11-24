@@ -1,0 +1,36 @@
+.main-head{
+    height: 150px;
+    background: #FFF;
+}
+
+.sidenav {
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.main {
+    padding: 0px 10px;
+}
+
+.text-down-logo {
+    margin-top: 8%;
+    justify-content: center;
+    padding: 60px;
+    color: white; 
+}
+
+.image-login{
+    justify-content: center;
+    padding: 60px;
+}
+
+.login-main-text h2{
+    font-weight: 300;
+}
+
+.btn-black{
+    background-color: #000 !important;
+    color: #fff;
+}
